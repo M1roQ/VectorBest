@@ -9,6 +9,7 @@ venv/
 datasets/
 models/
 runs/
+results/
 outputs/
 *.pt
 *.onnx
